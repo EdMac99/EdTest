@@ -1,0 +1,42 @@
+8888888 = General Time
+5015192 = TD MBNA March/April
+5010649 = CATO Bench
+5015335 = TD MBNA May
+5010652 = Training
+5015600 =  TD MBNA Jun-Aug
+5016653 = Sept-Dec
+==========================
+
+2014 Codes
+5018172 = JanFeb
+5018709 = Mar-June
+5019566 = July-Oct
+5018320 = Training
+5018321 = Recruiting
+5013542 = Group Tech (Costs not directy related to billable project or account activity)(Bench?)
+5018322 = Sales (Costs not directly related to billable project but that can be incurred by a Partner)
+5021117 = Nov-Jan 5{FNF SoftPro}
+
+
+================================
+2015 Codes
+
+5018338 = Internal Training
+5018334 = External Training
+5021633 = FNF SoftPro {Jan20-Mar20}
+5018336 = Tech Bench
+5022088 = BMO/FIS SPE
+
+
+=======================================
+2016 Codes
+5024066 = SB EDW Release A
+5027229 = TD Operatbility for WebBroker
+5027623 = TD Operatbility for WebBroker V2
+
+=======================================
+2017 Codes
+5027623 = TD Operatbility for WebBroker V2
+5028268 = TD Operatbility for WebBroker V2.1
+5025589 = Bench
+5025171 = Bradesco
