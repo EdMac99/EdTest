@@ -1,0 +1,19 @@
+153	./$Recycle.Bin
+92087	./cygwin
+142776	./DROPBOX
+417796	./glassfish3
+1617	./Intel
+7327	./Kits
+53998	./live-network-connector
+0	./MSOCache
+0	./New folder
+0	./PerfLogs
+2951808	./Program Files
+20374257	./Program Files (x86)
+2032703	./ProgramData
+0	./Recovery
+1869358	./SWSetup
+0	./System Volume Information
+89091367	./Users
+24110414	./Windows
+145828460	.
